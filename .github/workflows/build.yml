@@ -19,6 +19,7 @@ on:
   pull_request:
     paths-ignore:
       - '**.md'
+  workflow_dispatch:
 
 env:
   GHCR_SLUG: ghcr.io/karan/samba
@@ -42,7 +43,7 @@ jobs:
           tags: |
             type=match,pattern=(.*)-r,group=1
             type=ref,event=pr
-            type=edge
+            type=raw,value=latest,enable={{is_default_branch}}
           labels: |
             org.opencontainers.image.title=Samba
             org.opencontainers.image.description=Samba provides file services for various Microsoft Windows clients
