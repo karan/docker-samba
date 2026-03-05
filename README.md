@@ -277,7 +277,7 @@ See [examples/windows](examples/windows) as an example.
 
 Want to contribute? Awesome!
 
-* Consider donating to Palestine Children's Relief Fund: https://www.pcrf.net/donate**
+* **Consider donating to Palestine Children's Relief Fund: https://www.pcrf.net/donate**
 * You can support the original author of the project by [**becoming a sponsor on GitHub**](https://github.com/sponsors/crazy-max).
 
 ## License

@@ -1,8 +1,8 @@
-# Support [![](https://isitmaintained.com/badge/resolution/crazy-max/docker-samba.svg)](https://isitmaintained.com/project/crazy-max/docker-samba)
+# Support [![](https://isitmaintained.com/badge/resolution/karan/docker-samba.svg)](https://isitmaintained.com/project/karan/docker-samba)
 
 ## Reporting an issue
 
-Please do a search in [open issues](https://github.com/crazy-max/docker-samba/issues?utf8=%E2%9C%93&q=) to see if the
+Please do a search in [open issues](https://github.com/karan/docker-samba/issues?utf8=%E2%9C%93&q=) to see if the
 issue or feature request has already been filed.
 
 If you find your issue already exists, make relevant comments and add your
@@ -24,7 +24,7 @@ File a single issue per problem and feature request.
 
 The more information you can provide, the more likely someone will be successful reproducing the issue and finding a fix.
 
-You are now ready to [create a new issue](https://github.com/crazy-max/docker-samba/issues/new/choose)!
+You are now ready to [create a new issue](https://github.com/karan/docker-samba/issues/new/choose)!
 
 ## Closure policy
 

@@ -2,7 +2,7 @@ name: samba
 
 services:
   samba:
-    image: crazymax/samba
+    image: ghcr.io/karan/samba
     container_name: samba
     network_mode: host
     volumes:
